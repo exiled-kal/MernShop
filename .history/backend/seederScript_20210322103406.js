@@ -20,4 +20,4 @@ const importData = async () => {
   }
 };
 
-importData();
+import
