@@ -83,12 +83,5 @@
   .left__info {
     flex: 1;
   }
-  .productscreen__right {
-    flex: 1;
-    padding: 1rem;
-  }
-  .right__info {
-    width: 100%;
-    margin: 0;
-  }
+  .left__
 }
