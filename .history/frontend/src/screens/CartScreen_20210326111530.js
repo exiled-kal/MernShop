@@ -16,7 +16,7 @@ const CartScreen = () => {
           <p>$499.99</p>
         </div>
         <div>
-          <button>Proceed to Checkout</button>
+          <button>Proceed to Chekcout</button>
         </div>
       </div>
     </div>
