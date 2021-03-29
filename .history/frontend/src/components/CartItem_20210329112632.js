@@ -21,7 +21,7 @@ const CartItem = () => {
         <option value="4">4</option>
       </select>
       <button className="cartitem__deleteBtn">
-        <i className="fas fa-trash"></i>
+        <i className="fas fa-trash">B</i>
       </button>
     </div>
   );

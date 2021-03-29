@@ -23,10 +23,5 @@
 }
 
 .cartscreen__right div {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  padding: 1rem;
-}
-
-.cartscreen__right div:last-child {
-  border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.4);
 }

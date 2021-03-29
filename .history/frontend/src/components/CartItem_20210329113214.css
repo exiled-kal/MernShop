@@ -47,20 +47,5 @@
   .cartitem__deleteBtn {
     padding: 8px 13px;
   }
-  .cartitem__price {
-    font-size: 0.8rem;
-  }
-}
-
-@media (max-width: 500px) {
-  .cartitem__name {
-    font-size: 0.6rem;
-  }
-  .cartitem__select,
-  .cartitem__deleteBtn {
-    padding: 5px 8px;
-  }
-  .cartitem__price {
-    font-size: 0.6rem;
-  }
+  .cartitem__price: 0.8rem;
 }
