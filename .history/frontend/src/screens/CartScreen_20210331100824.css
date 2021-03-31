@@ -54,15 +54,8 @@
   }
 }
 
-@media (max-width: 960px) {
+@media (max-width: 1320px) {
   .cartscreen {
-    max-width: 800px;
-    flex-direction: column;
-  }
-  .cartscreen__left {
-    margin: 0;
-  }
-  .cartscreen__right {
-    margin: 1rem;
+    max-width: 900px;
   }
 }

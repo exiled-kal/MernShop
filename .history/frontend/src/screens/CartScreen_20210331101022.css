@@ -59,10 +59,5 @@
     max-width: 800px;
     flex-direction: column;
   }
-  .cartscreen__left {
-    margin: 0;
-  }
-  .cartscreen__right {
-    margin: 1rem;
-  }
+  .cartscreen
 }

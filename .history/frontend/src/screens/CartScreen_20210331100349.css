@@ -35,34 +35,4 @@
   padding: 8px;
 }
 
-.cartscreen__right div button {
-  padding: 10px 17px;
-  width: 100%;
-  background: #171717;
-  color: #f4f4f4;
-  border: 1px solid #171717;
-  cursor: pointer;
-}
-
-.cartscreen__right div button:hover {
-  opacity: 0.9;
-}
-
-@media (max-width: 1320px) {
-  .cartscreen {
-    max-width: 900px;
-  }
-}
-
-@media (max-width: 960px) {
-  .cartscreen {
-    max-width: 800px;
-    flex-direction: column;
-  }
-  .cartscreen__left {
-    margin: 0;
-  }
-  .cartscreen__right {
-    margin: 1rem;
-  }
-}
+.cartscreen__right div 

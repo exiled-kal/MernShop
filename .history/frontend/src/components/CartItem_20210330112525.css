@@ -45,7 +45,7 @@
   }
 
   .cartitem__select,
-  .cartitem__deleteBtn {
+  .cartItem__deleteBtn {
     padding: 8px 13px;
   }
 
@@ -55,12 +55,12 @@
 }
 
 @media (max-width: 700px) {
-  .cartitem__name {
+  .cartItem__name {
     font-size: 0.6rem;
   }
 
-  .cartitem__select,
-  .cartitem__deleteBtn {
+  .cartItem__select,
+  .cartItem__deleteBtn {
     padding: 5px 8px;
   }
 
