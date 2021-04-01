@@ -1,0 +1,13 @@
+.navbar {
+  width: 100%;
+  background-color: #171717;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5 rem 1rem;
+  z-index: 50;
+}
+
+.navbar__logo h2{
+color: #f4f4f4
+}

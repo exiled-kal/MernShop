@@ -1,0 +1,9 @@
+.cartscreen {
+  display: flex;
+  max-width: 1300px;
+  margin-top: 2rem auto;
+}
+
+.cartscreen h2 {
+    
+}
